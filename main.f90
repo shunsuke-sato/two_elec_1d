@@ -33,7 +33,6 @@ contains
 
 
 end module global_variables
-include "broyden.f90"
 !-------------------------------------------------------------------------------
 program main
   use global_variables
